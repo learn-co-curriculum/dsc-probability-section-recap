@@ -13,18 +13,20 @@ You will be able to:
 ## Key Takeaways
 
 In this section, wee dug into a number of foundational concepts - from NumPy to the basics of Probability
-* Under the hood, Pandas relies on NumPy for computationally efficient processing of large data sets
-* In addition to providing a base for Pandas, NumPy has many useful features built right in - including the ability to perform random sampling
-* A scalar is a quantity that can be fully described by a magnitude (a single number). A vector can only fully be described by multiple numbers - e.g. a magnitude and a direction
-* NumPy supports a range of powerful Scalar and Vector mathematical operations
 * Probability is "how likely" it is that an event will happen
 * Sets in Python are unordered collections of unique elements
+* A sample space is a collection of every single possible outcome in a trial
 * The inclusion exclusion principle is a counting technique to calculate the number of elements in a collection of sets with overlapping elements
-* The "sum rule" of probability states that $P(A\cup B) = P(A) + P(B) - P(A \cap B) $
 * Factorials provide the basis for calculating permutations 
 * The difference between permutations and combinations is that with combinations, order is not important
-* The Bernoulli distribution can be used to describe a single, binary event
-* The probability of n-independent Bernoulli events can be described by a binomial distribution
+* The "sum rule" of probability states that $P(A\cup B) = P(A) + P(B) - P(A \cap B) $
 
-In this section, we introduced the binomial distribution. In the next section, we'll look at a number of other types of distributions and how they relate to data science.
+* Independent events don't affect each other - e.g. consecutive coin tosses
+* Dependent events do affect each other - e.g. picking consecutive colored marbles from a bag
+* The product rule is useful when the conditional probability is easy to compute, but the probability of intersections of events are not.
+* The chain rule (also called the general product rule) permits the calculation of any member of the joint distribution of a set of random variables using only conditional probabilities.
+* Bayes theorem described the probability of an event based on prior knowledge of conditions that might be related to the event
+* The law of total probability states that the probability for a sample space is the sum of the probabilities for partitions of that sample space
 
+
+In this section, we introduced the ideas of combinatorics and probability. In the next section, you'll use this knowledge and take it a step further by learning about statistical distributions and their applications!
