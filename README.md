@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 08 and why they'll be important to you as a data scientist.
+In this section, you learned about the concepts of combinatorics and probability.
 
 ## Objectives
 You will be able to:
