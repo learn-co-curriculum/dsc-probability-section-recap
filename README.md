@@ -1,5 +1,5 @@
 
-# Section Recap
+# Combinatorics and Probability - Recap
 
 ## Introduction
 
