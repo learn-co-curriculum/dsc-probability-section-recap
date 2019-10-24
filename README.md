@@ -5,11 +5,6 @@
 
 In this section, you learned about the concepts of combinatorics and probability.
 
-## Objectives
-You will be able to:
-* Understand and explain what was covered in this section
-* Understand and explain why this section will help you become a data scientist
-
 ## Key Takeaways
 
 In this section, we dug into a number of foundational concepts - from NumPy to the basics of Probability
