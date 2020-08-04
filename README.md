@@ -14,7 +14,7 @@ In this section, we dug into a number of foundational concepts - from NumPy to t
 * The inclusion exclusion principle is a counting technique used to calculate the number of elements in a collection of sets with overlapping elements
 * Factorials provide the basis for calculating permutations 
 * The difference between permutations and combinations is that with combinations, order is not important
-* The "sum rule" of probability states that $P(A\cup B) = P(A) + P(B) - P(A \cap B) $
+* The "sum rule" of probability states that  <img src="https://render.githubusercontent.com/render/math?math=P(A \cup B) = P(A) %2b P(B) - P(A  \cap B) "> 
 
 * Independent events don't affect each other - e.g. consecutive coin tosses
 * Dependent events do affect each other - e.g. picking consecutive colored marbles from a bag
